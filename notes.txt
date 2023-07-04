@@ -1,0 +1,5 @@
+error:
+    The specified device is not open or is not recognized by MCI.
+solusi:
+    pip uninstall playsound
+    pip install playsound==1.2.2

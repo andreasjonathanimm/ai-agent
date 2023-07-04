@@ -1,0 +1,7 @@
+Copyright abdiansah@unsri.ac.id 2021
+
+v.0.0.1
+    - release
+
+v.0.0.2
+    - add sounds
